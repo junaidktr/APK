@@ -49,3 +49,4 @@ coverage/
 ```node_modules/
 .next/
 dist/
+node_modules/
