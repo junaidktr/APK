@@ -1,5 +1,51 @@
-node_modules/
+```
+# Android
+*.apk
+*.aar
+*.ap_
+build/
+.gradle/
+local.properties
+proguard/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Generated files
+gen/
+bin/
+obj/
+
+# Log Files
+*.log
+
+# Local configuration property files
+local.properties
+
+# Keystore files
+*.keystore
+*.jks
+
+# Android cache
+.cache/
+
+# Coverage reports
+coverage/
+*.gcov
+*.lcov
+*.profdata
+
+# Temporary files
+*.tmp
+*.temp
+```node_modules/
 .next/
 dist/
-build/
-*.log

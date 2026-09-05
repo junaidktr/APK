@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Call Recorder</string>
+    <string name="permissions_required">Permissions Required</string>
+    <string name="permission_description">This app needs permissions to record calls. Please grant all required permissions to continue.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="enable_accessibility">Enable Accessibility Service</string>
+    <string name="view_recordings">View Recordings</string>
+    <string name="settings">Settings</string>
+    <string name="no_recordings">No recordings yet</string>
+    <string name="recording_settings">Recording Settings</string>
+    <string name="auto_record_calls">Auto Record Calls</string>
+    <string name="record_whatsapp_calls">Record WhatsApp Calls</string>
+    <string name="audio_quality">Audio Quality</string>
+    <string name="storage_location">Storage Location</string>
+    <string name="select_storage">Select Storage Location</string>
+    <string name="clear_all_recordings">Clear All Recordings</string>
+    <string name="call_recording">Call Recording</string>
+    <string name="recording_call">Recording Call</string>
+    
+    <string-array name="audio_quality_options">
+        <item>Low (64 kbps)</item>
+        <item>Medium (128 kbps)</item>
+        <item>High (192 kbps)</item>
+        <item>Best (256 kbps)</item>
+    </string-array>
+    
+    <string name="accessibility_service_description">This accessibility service is used to detect WhatsApp call screens and automatically start/stop recording. The app only accesses window information when WhatsApp is active during calls.</string>
+</resources>
